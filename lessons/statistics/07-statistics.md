@@ -100,7 +100,7 @@ Pr(identical | twin brother) = (1/2)*(1/300) / ( (1/2)*(1/300) + (1/4) * (1/125)
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+From normal deviate: Says bayesian and frequentist inference are defined by their goals and not their methods. Frequentist goal: construct procedure with frequency guarantees (confidence intervals). Bayesian goal: quantify and manipulate your degrees of beliefs. After watching a couple youtube videos and reading different blogs, I still am somewhat confused on this topic. One thing that I did gather is that Bayesian approach requires one to know or construct a subjective prior (could be for example the assumption of a distribution that models the data) whereas frequentist approach does not require a prior. Bayesian's use probabilities for both hypotheses and data whereas frequentists do not use or give the probability of a hypothesis. 
 
 ---
 
